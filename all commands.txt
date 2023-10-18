@@ -1,0 +1,374 @@
+ 1  git init
+    2  git config --global user.name "katikam geethanjali"
+    3  git config --global user.name "katikamanjali@gmail.com"
+    4  git config --list
+    5  git config --global user.name "katikam geethanjali"
+    6  git config --global user.email "katikamanjali@gmail.com"
+    7  git config --list
+    8  git status
+    9  clear
+   10  git config --global user.name "katikam "
+   11  git config --list
+   12  git config --global --unset user.name
+   13  git config --list
+   14  git clone
+   15  clear
+   16  git clone
+   17  clear
+   18  git clonehttps://github.com/geethanjalikatikam/git.git
+   19  git clone https://github.com/geethanjalikatikam/git.git
+   20  ls
+   21  cd master
+   22  cd git
+   23  ls
+   24  ls
+   25  ls -a
+   26  clear
+   27  git clone https://github.com/geethanjalikatikam/git.git
+   28  ls
+   29  cd git
+   30  ls
+   31  ls -a
+   32  touch file1
+   33  ls
+   34  git status
+   35  git commit -m "sample commit" file1
+   36  git add file1
+   37  git status
+   38  git commit -m "sample commit" file1
+   39  git status
+   40  git log
+   41  git how
+   42  git show
+   43  git push
+   44   ssh -i "oct9.pem" ec2-user@ec2-3-25-203-14.ap-southeast-2.compute.amazonaws.com
+   45  ls
+   46  hostname -a
+   47  clear
+   48  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-14.ap-southeast-2.compute.amazonaws.com
+   49  clear
+   50  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-14.ap-southeast-2.compute.amazonaws.com
+   51  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-14.ap-southeast-2.compute.amazonaws.com
+   52  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   53  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   54  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   55  ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   56  clear
+   57  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   58   ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   59  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   60  ssh -i "oct9.pem" ec2-user@ec2-13-211-129-65.ap-southeast-2.compute.amazonaws.com
+   61  ssh -i "oct23.pem" ec2-user@ec2-3-27-29-202.ap-southeast-2.compute.amazonaws.com
+   62  sudo su
+   63  ssh -i "oct23.pem" ec2-user@ec2-3-27-29-202.ap-southeast-2.compute.amazonaws.com
+   64  ssh -i "oct23.pem" ec2-user@ec2-3-27-29-202.ap-southeast-2.compute.amazonaws.com
+   65  ssh -i "oct23.pem" ec2-user@ec2-3-27-29-202.ap-southeast-2.compute.amazonaws.com
+   66  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   67  sudo su
+   68  clear
+   69  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   70  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   71  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   72  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   73  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   74  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   75  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+   76  git config --global user.name "geetha"
+   77  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+   78  git config --global user.name "geetha"
+   79  git config --list
+   80  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+   81  clear
+   82  git config --list
+   83  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+   84  git config --global user.name "geethanjali
+   85  git config --global user.email "geethanjali8790@gmail.com
+   86  git congif --list
+   87  git config --list
+   88  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   89  sudo su
+   90  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   91  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   92  git config --global user.email "geethanjali8790@gmail.com
+   93  git config --global user.name "geetha
+   94  git config -- list
+   95  git config --list
+   96  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   97  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+   98  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+   99  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  100
+  101  ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  102  cldar
+  103  clear
+  104  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  105  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  106  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  107  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  108  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  109  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  110  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  111  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  112  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  113  git checkout main
+  114  git checkout main
+  115  ls
+  116  git add .
+  117  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  118  ssh -i "oct9.pem" ec2-user@ec2-3-25-203-76.ap-southeast-2.compute.amazonaws.com
+  119  ssh -i "oct9.pem" ec2-user@ec2-3-27-24-50.ap-southeast-2.compute.amazonaws.com
+  120  git branch
+  121  ls
+  122  git branch release1
+  123  git branch
+  124  git branch
+  125  ls
+  126  git branch release1
+  127  git branch
+  128   git checkout release1
+  129  git branch
+  130  ls
+  131  git checkout main
+  132  ls
+  133  touch file6
+  134  ls
+  135  git status
+  136  git add .
+  137  git add.
+  138  git add .
+  139   git commit -m "sample file6"
+  140  ls
+  141  git checkout release1
+  142   ls
+  143   git merge main
+  144  ls
+  145  git log
+  146  cat file6
+  147  git checkout main
+  148  ls
+  149  vi file6
+  150   git status
+  151  git add .
+  152  git commit -m "test data"
+  153  cat file6
+  154   git checkout release1
+  155  cat file6
+  156  git merge main
+  157  cat file6
+  158  clear
+  159  touch file7
+  160  git status
+  161  git add .
+  162  vi file6
+  163  git status
+  164  git commit " test commit"
+  165  git commit -m "test commit"
+  166  ls
+  167  cat file6
+  168  git checkout main
+  169  ls
+  170  cat file6
+  171  git merge relese1
+  172  git merge release1
+  173  ls
+  174  cat file6
+  175  clear
+  176  git branch
+  177  git branch release1
+  178  git checkout release1
+  179  git checkout main
+  180  clear
+  181  git branch
+  182  ls
+  183  git branch release1
+  184  git checkout release1
+  185  ls
+  186  git commit -m "file7 file -5"
+  187  ls
+  188  git checkout release2
+  189  git branch release2
+  190  git checkout release2
+  191  ls
+  192  git checkout main
+  193  touch file8 file9
+  194  git add .
+  195  git commit -m "sample commit"
+  196  ls
+  197  git branch release3
+  198   git branch
+  199  ls
+  200  git checkout release2
+  201  ls
+  202  git checkout release3
+  203  ls
+  204  git merge release3
+  205  git checkout release2
+  206  ls
+  207  git merge release3
+  208  ls
+  209  git checkout main
+  210  ls
+  211  git merge release2
+  212  git branch -d release2
+  213  git branch -d release1
+  214  ls
+  215  git branch release1
+  216  git checkout release1
+  217  ls
+  218  touch f3 f4
+  219  ls
+  220  git commit -m "f3 f4"
+  221  git checkout main
+  222  ls
+  223  git branch -d release1
+  224  git branch
+  225  git push origin release3
+  226  touch f6 f7
+  227  git add .
+  228  git commit -m "f6 f5"
+  229  git checkout main
+  230  ls
+  231  git push
+  232  git push https://github.com/geethanjalikatikam/git.git
+  233  git status
+  234  ls
+  235  git branch r2
+  236  git branch r1
+  237  ls
+  238  vi file6
+  239  vi file5
+  240  git status
+  241  git add file5
+  242  git commit -m "sample data"
+  243  git checkout r1
+  244  ls
+  245  vi file5
+  246  git add .
+  247  git add .
+  248  git commit -m " sample commit"
+  249  cat file5
+  250  git checkout main
+  251  cat file5
+  252  git merge r1
+  253  git merge --abort
+  254  git merge r1
+  255  vi file5
+  256  git status
+  257  git add .
+  258  git commit -m "sample commit"
+  259  git commit -m "conflict file"
+  260  vi file5
+  261  git merger r1
+  262  git merge r1
+  263  git checkout r1
+  264  cat file5
+  265  git merge main
+  266  cat file5
+  267  git logs
+  268  git log
+  269  git log -3
+  270  git log --oneline
+  271  git log --online -2
+  272  git log --oneline -2
+  273  git log --oneline -n
+  274  git log --oneline -4
+  275  git log --author=geetha
+  276  git log --author=geetha -n
+  277  git log --author=geetha --oneline
+  278  git log --since=2023-10-16
+  279  git log --after=2023-10-16
+  280  git log --before=2023-10-16
+  281* git log --until
+  282  git log --since=2023-10-16 --until=2023-10-14
+  283  git log --since=2023-10-16 --until=2023-10-15
+  284  git log --since=2023-10-14 --until=2023-10-15
+  285  git log --since=2023-10-16 --until=2023-10-17
+  286  git log --since=2023-10-17 --until=2023-10-18
+  287  git log --since="2023-10-17 7:00" --until="2023-10-18 23:00"
+  288  git log --since="2023-10-17 7:00" --until="2023-10-18 23:00" --author=geetha
+  289  git log --since="2023-10-17 7:00" --until="2023-10-18 23:00" --author=geetha --oneline
+  290  git log --grep "test
+
+  291  git log --grep "test"
+  292  git log --grep "t123
+git log --grep "t123"
+
+
+  293  git log --grep "t123"
+  294  ls
+  295  git log -- file devops
+  296  git log -- file5
+  297  git log -- file5 --author=geetha
+  298   clear
+  299  git checkout main
+  300  git stash list
+  301  git status
+  302  ls
+  303  git add .
+  304  git status
+  305  touch i1
+  306  git add .
+  307  git status
+  308  git stash save "stash"
+  309  git status
+  310  git stash list
+  311   git stash show stash{0}
+  312   git stash show stash1{0}
+  313  ls
+  314  vi file5
+  315    git stash list
+  316  git stash save "stash1"
+  317  git status
+  318   git stash list
+  319  git stash show stash{0}
+  320  git stash show stash1{0}
+  321  git stash show stash@{0}
+  322  git stash show -p stash@{0}
+  323  history
+  324   touch 12 13
+  325  rm -rf 12 13
+  326  touch i2 i3
+  327   touch 12 13
+  328  touch i2 i3
+  329  git add .
+  330  vi f1
+  331  git status
+  332  git stash save "stash3"
+  333  git status list
+  334  git stash show -p stash@{0}
+  335  history
+  336  git status
+  337  git stash pop
+  338  git stash list
+  339  git stash pop
+  340  git status
+  341  git stash pop stash@{0}
+  342  git stash list
+  343  git stash
+  344  git status
+  345  git stash list
+  346  git stash apply
+  347  git stash list
+  348  git stash apply stash@{0}
+  349  git stash list
+  350   git stash drop stash@{1}
+  351   git stash drop stash@{0}
+  352  git stash list
+  353  git stash drop
+  354  git stash list
+  355  clear
+  356  git clone https://github.com/polarapu/batch98.git
+  357   ll
+  358  touch geethanjali
+  359  git status
+  360  git add .
+  361  git add .
+  362  git commit -m "do commit"
+  363  git status
+  364  git push
+  365  git push
+  366  git push
+  367  history
+
+RGUKT@DESKTOP-CDR7BBQ MINGW64 ~/Desktop/git (main)
+$
