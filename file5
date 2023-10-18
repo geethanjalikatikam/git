@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 hello all
 test msg1
 test msg2
 test msg3
 sample data from min branch
 test line added in main branch to test merge conflicts
+=======
+hello all good afternoon
+test msg 1
+test msg 3
+test msg 3
+test data from relaese (r1) branch
+hello all good evening
+line add test in r1
+branch
+>>>>>>> r1
 
