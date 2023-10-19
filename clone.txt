@@ -1,0 +1,16 @@
+  git clone https://github.com/geethanjalikatikam/git.git
+  393  ls
+  394  cd batrch98
+  395  cd batrch98/
+  396  cd batch98
+  397  touch 9
+  398  touch file11
+  399  git status
+  400  git add .
+  401  git status
+  402  git commit -m "sample commmit"
+  403  git commit -m "sample commmit" file11
+  404  git log
+  405  git push
+  406  git push
+  407  history
